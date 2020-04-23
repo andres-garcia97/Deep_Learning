@@ -5,3 +5,5 @@ This is the whole series of Jupyter Notebook documents developed and delivered f
 performed with details, learning tips and Pyhton programing language.
 
 Last updated in 18/03/2020
+
+Luis ha estado aqui
